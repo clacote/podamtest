@@ -1,4 +1,4 @@
-package net.geekweavers.podamtest;
+package models;
 
 import org.apache.commons.lang.builder.EqualsBuilder;
 import org.apache.commons.lang.builder.HashCodeBuilder;

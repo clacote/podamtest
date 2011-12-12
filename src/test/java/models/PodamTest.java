@@ -1,4 +1,4 @@
-package net.geekweavers.podamtest;
+package models;
 
 import org.junit.Test;
 import uk.co.jemos.podam.api.PodamFactory;

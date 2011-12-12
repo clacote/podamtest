@@ -1,4 +1,4 @@
-package net.geekweavers.podamtest;
+package models;
 
 import java.util.Set;
 
