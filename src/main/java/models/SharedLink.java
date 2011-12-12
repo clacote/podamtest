@@ -50,10 +50,6 @@ public class SharedLink {
                 .toHashCode();
     }
 
-    /**
-     * WARNING : used in UI to display a link in {@link SharedLinkActivity}
-     * @return 
-     */
     @Override
     public String toString() {
         return name;
